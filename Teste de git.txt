@@ -1,0 +1,7 @@
+Comandos usados
+git init -> inicializando o repositorio
+git add README.md -> adicionando o arquivo readme
+git commit -m "first commit" -> fazendo commit e escrevendo a mensagem dele
+git branch -M main -> modificando o nome da branch de origin para main
+git remote add main https://github.com/davilucasx/MFDS-git.git
+git push -u origin main -> subindo o repositorio local
